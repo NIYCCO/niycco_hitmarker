@@ -23,7 +23,7 @@ The script offers the option of activating or deactivating the hitmarker using t
 Example to create a custom command in another client script:
 ```lua
 RegisterCommand('exportTest', function()
-  exports.ds_hitmarker:toogleHitmarkerExport()
+  exports.niycco_hitmarker:toogleHitmarkerExport()
 end, false)
 ```
 
