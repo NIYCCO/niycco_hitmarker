@@ -18,7 +18,7 @@ The configuration file (Config.lua) allows the user to adjust various settings:
 
 ## Usage/Examples
 
-The script offers the option of activating or deactivating the hitmarker using the "/hitmarker" command. Alternatively, the toogleHitmarkerExport function can be called in other client scripts via exports.ds_hitmarker:toogleHitmarkerExport().
+The script offers the option of activating or deactivating the hitmarker using the "/hitmarker" command. Alternatively, the toogleHitmarkerExport function can be called in other client scripts via exports.niycco_hitmarker:toogleHitmarkerExport().
 
 Example to create a custom command in another client script:
 ```lua
